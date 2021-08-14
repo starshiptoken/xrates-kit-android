@@ -33023,12 +33023,6 @@
       "external_id": { "coingecko": "stand-share", "cryptocompare": "SAS" }
     },
     {
-      "id": "erc20|0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
-      "code": "star",
-      "name": "Starbase",
-      "external_id": { "coingecko": "starbase", "cryptocompare": "STAR" }
-    },
-    {
       "id": "erc20|0xc48b1ac1417db27c4e2c2ed3dae5a3d2fbb07dc5",
       "code": "stb",
       "name": "StarBlock",
