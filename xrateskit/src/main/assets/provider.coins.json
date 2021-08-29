@@ -369,9 +369,9 @@
     },
     {
       "id": "erc20|0x8689d850cdf3b74a1f6a5eb60302c785b71c2fc7",
-      "code": "$CPHX",
+      "code": "CPHX",
       "name": "Crypto Phoenix",
-      "external_id": { "coingecko": "cryptophoenix" }
+      "external_id": { "coingecko": "crypto-phoenix" }
     },
     {  
       "id": "erc20|0xb38f206615325306dddeb0794a6482486b6b78b8",
