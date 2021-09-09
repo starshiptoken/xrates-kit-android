@@ -7502,6 +7502,18 @@
       "external_id": { "coingecko": "californium", "cryptocompare": "CF" }
     },
     {
+      "id": "erc20|0x43f11c02439e2736800433b4594994bd43cd066d",
+      "code": "FLOKI",
+      "name": "Floki Inu",
+      "external_id": { "coingecko": "floki-inu" }
+    },
+    {
+      "id": "bep20|0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4",
+      "code": "FLOKI",
+      "name": "Floki Inu",
+      "external_id": { "coingecko": "floki-inu" }
+    },
+    {
       "id": "unsupported|callisto",
       "code": "clo",
       "name": "Callisto Network",
