@@ -41,7 +41,7 @@ dependencies {
     implementation 'com.eclipsesource.minimal-json:minimal-json:0.9.5'
 
     //CoinKit
-    api 'com.github.starshiptoken:coin-kit-android:e07fbeb'
+    api 'com.github.starshiptoken:coin-kit-android:b658bd7'
 
     implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 
