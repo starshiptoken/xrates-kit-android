@@ -2089,6 +2089,12 @@
       "external_id": { "coingecko": "alldex-alliance" }
     },
     {
+      "id": "bep20|0xf73d8276c15ce56b2f4aee5920e62f767a7f3aea",
+      "code": "tcg2",
+      "name": "TCGCoin 2.0",
+      "external_id": { "coingecko": "tcgcoin-2-0" }
+    },
+    {
       "id": "unsupported|all-for-one-business",
       "code": "afo",
       "name": "All For One Business",
