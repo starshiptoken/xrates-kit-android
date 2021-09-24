@@ -14492,6 +14492,24 @@
       "external_id": { "coingecko": "exnce" }
     },
     {
+      "id": "bep20|0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a",
+      "code": "ethvault",
+      "name": "ETHVAULT",
+      "external_id": { "coingecko": "ethvault" }
+    },
+    {
+      "id": "bep20|0xe2e6e66551e5062acd56925b48bba981696cccc2",
+      "code": "vault",
+      "name": "SafeVault",
+      "external_id": { "coingecko": "safevault" }
+    },
+    {
+      "id": "bep20|0xd22246644d2be5d0427a8e474477d96677c3ec24",
+      "code": "fswap",
+      "name": "FlatSwap",
+      "external_id": { "coingecko": "" }
+    },
+    {
       "id": "erc20|0xd6c67b93a7b248df608a653d82a100556144c5da",
       "code": "exnt",
       "name": "ExNetwork Token",
