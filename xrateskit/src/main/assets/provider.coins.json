@@ -14270,6 +14270,12 @@
       "external_id": { "coingecko": "eurbase", "cryptocompare": "EBASE" }
     },
     {
+      "id": "bep20|0xeea06fc74182b195f679f31d735d95ee502f03f3",
+      "code": "vicewrld",
+      "name": "VICE",
+      "external_id": { "coingecko": "Vicewrld" }
+    },
+    {
       "id": "unsupported|eureka-coin",
       "code": "erk",
       "name": "Eureka Coin",
