@@ -362,10 +362,34 @@
       "external_id": { "coingecko": "1x-short-dogecoin-token", "cryptocompare": "DOGEHEDGE" }
     },
     {
-      "id": "bep20|0x52419258e3fa44deac7e670eadd4c892b480a805",
+      "id": "bep20| 0x52419258e3fa44deac7e670eadd4c892b480a805",
       "code": "starship",
       "name": "StarShip",
       "external_id": { "coingecko": "starship" }
+    },
+    {
+      "id": "bep20| 0x76aecb353abf596bd61ee6bdb07d70787dec4fd6",
+      "code": "CURE",
+      "name": "CURE Token V2",
+      "external_id": { "coingecko": "cure-token-v2" }
+    },
+    {
+      "id": "bep20|0x147e07976e1ae78287c33aafaab87760d32e50a5",
+      "code": "DEX",
+      "name": "dexIRA",
+      "external_id": { "coingecko": "dexira" }
+    },
+    {
+      "id": "bep20|0x0b3f42481c228f70756dbfa0309d3ddc2a5e0f6a",
+      "code": "ULTRA",
+      "name": "UltraSafe",
+      "external_id": { "coingecko": "ultrasafe" }
+    },
+    {
+      "id": "bep20|0xcfd947b1ad06c39522fb67fb00b21a3fda906e34",
+      "code": "CMP",
+      "name": "Moonpoly",
+      "external_id": { "coingecko": "moonpoly" }
     },
     {
       "id": "erc20|0x8689d850cdf3b74a1f6a5eb60302c785b71c2fc7",
