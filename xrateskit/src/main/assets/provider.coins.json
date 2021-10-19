@@ -362,13 +362,13 @@
       "external_id": { "coingecko": "1x-short-dogecoin-token", "cryptocompare": "DOGEHEDGE" }
     },
     {
-      "id": "bep20| 0x52419258e3fa44deac7e670eadd4c892b480a805",
+      "id": "bep20|0x52419258e3fa44deac7e670eadd4c892b480a805",
       "code": "starship",
       "name": "StarShip",
       "external_id": { "coingecko": "starship" }
     },
     {
-      "id": "bep20| 0x76aecb353abf596bd61ee6bdb07d70787dec4fd6",
+      "id": "bep20|0x76aecb353abf596bd61ee6bdb07d70787dec4fd6",
       "code": "CURE",
       "name": "CURE Token V2",
       "external_id": { "coingecko": "cure-token-v2" }
